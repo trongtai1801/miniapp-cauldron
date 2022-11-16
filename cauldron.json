@@ -20,6 +20,23 @@
               "yarnLocks": {}
             }
           ]
+        },
+        {
+          "name": "ios",
+          "versions": [
+            {
+              "name": "1.0.1",
+              "codePush": {},
+              "container": {
+                "jsApiImpls": [],
+                "miniApps": [],
+                "nativeDeps": []
+              },
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
+            }
+          ]
         }
       ]
     }
